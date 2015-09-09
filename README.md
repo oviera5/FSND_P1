@@ -11,3 +11,7 @@ application.
 
 Copy media.py, entertainment_center.py, and fresh_tomatoes.py to your 
 local drive, and enter 'python entertainment_center.py' within your terminal.
+
+An HTML file, fresh_tomatoes.html, will be created and will load
+to your default browser. Once the web page is loaded, you will be able to
+click links to view trailer of the posted movies.
