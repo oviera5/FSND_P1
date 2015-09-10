@@ -3,8 +3,8 @@
 
 Introduction
 
-    This python web application was created by Orlando Viera for Project 1 of the 
-    Full Stack Web Developer Nanodegree.
+    This python web application was created by Orlando Viera for Project 1 of 
+    the Full Stack Web Developer Nanodegree.
 
 Create date
     
@@ -12,8 +12,7 @@ Create date
 
 File location
 
-    The files can be found 
-    [here](https://github.com/oviera5/FSND_P1).
+    [here](https://github.com/oviera5/FSND_P1)
 
 Installation instructions
 
