@@ -12,7 +12,7 @@ Create date
 
 File location
 
-    [here](https://github.com/oviera5/FSND_P1)
+    https://github.com/oviera5/FSND_P1
 
 Installation instructions
 
