@@ -1,17 +1,38 @@
 # Movie Trailer Website
 
-This python web page was created by Orlando Viera for Project 1 of the Full
-Stack Web Developer Nanodegree.
 
-The files can be found 
-[here](https://github.com/oviera5/FSND_P1).
+Introduction
 
-You will need to have Python 2 loaded on your system in order to run the
-application.
+    This python web application was created by Orlando Viera for Project 1 of the 
+    Full Stack Web Developer Nanodegree.
 
-Copy media.py, entertainment_center.py, and fresh_tomatoes.py to your 
-local drive, and enter 'python entertainment_center.py' within your terminal.
+Create date
+    
+    September 9, 2015
 
-An HTML file, fresh_tomatoes.html, will be created and will load
-to your default browser. Once the web page is loaded, you will be able to
-click links to view trailers of the posted movies.
+File location
+
+    The files can be found 
+    [here](https://github.com/oviera5/FSND_P1).
+
+Installation instructions
+
+    To run this python project, please follow the steps listed below:
+
+        1 - Have Python 2 installed on your machine.
+        2 - Copy the following files to a directory on your machine:
+        
+            a) media.py
+            b) entertainment_center.py
+            c) fresh_tomatoes.py
+    
+        3 - Navigate to the directory where the files are located.
+        4 - Type the following command line in the terminal/cmd:
+
+                python entertainment_center.py
+
+        5 - A webpage will be opened in your default browser.
+
+Contact information
+
+    Email: orlando.g.viera@gmail.com
